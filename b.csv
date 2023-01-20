@@ -1,0 +1,5 @@
+Feature	, Cloud SQL Auth Proxy Operator	, Cloud SQL Auth Proxy
+Installation, Installed using Kubernetes resources ,	Installed manually
+Configuration  ,	Configured using Kubernetes resources ,	Configured manually
+Scalability ,	Automatic scaling based on Kubernetes resources	, Manual scaling
+Maintenance ,	Automatic updates and maintenance through Kubernetes ,	Manual updates and maintenance
