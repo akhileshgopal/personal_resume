@@ -1,8 +1,0 @@
-Feature ,	Cloud SQL Connector	, Cloud SQL Auth Proxy
-Connection method , Direct connection to Cloud SQL instance , Connection through a proxy
-Authentication , Uses IAM credentials or service account , Uses IAM credentials or OAuth
-Security	, Can be used with private IP and VPC	, Can be used with private IP and VPC and also provides additional security features like encryption and audit logging
-Scale	, Can handle high-traffic workloads	, Can handle moderate-traffic workloads
-Compatibility ,	Compatible with all Cloud SQL instances ,	Compatible with all Cloud SQL instances but certain features may not be available
-
-
